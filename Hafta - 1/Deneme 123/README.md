@@ -1,0 +1,1 @@
+- Sadece git pratiği için oluşturulmuştur.

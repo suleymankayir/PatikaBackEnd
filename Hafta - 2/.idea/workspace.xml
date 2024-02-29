@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0d90251-4baf-4129-b80e-a79fc31de0d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Repeat Number in Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Repeat Number in Array/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced Calculator/Advanced Calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraySort/ArraySort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BWithMultidimensionalArray/BWithMultidimensionalArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boks Maci/Boks Maci.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desene Gore Metot/Desene Gore Metot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenNumwithArray/EvenNumwithArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Harmonik Ortalama/Harmonik Ortalama.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Maas Hesaplayici/Maas Hesaplayici.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinAndMaxArray/MinAndMaxArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ogrenci Bilgi Sisitemi/Ogrenci Bilgi Sisitemi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrom Sayi/Palindrom Sayi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Powered Numbers with Recursive/Powered Numbers with Recursive.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prime Numbers with Recursive/Prime Numbers with Recursive.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursive Ile Fibonacci/Recursive Ile Fibonacci.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2ZnZapySK5KSBNTHIssiholuyBg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/suleymankayir/Desktop/Patika/Hafta - 2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0d90251-4baf-4129-b80e-a79fc31de0d8" name="Changes" comment="" />
+      <created>1703059870411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703059870411</updated>
+    </task>
+    <servers />
+  </component>
+</project>

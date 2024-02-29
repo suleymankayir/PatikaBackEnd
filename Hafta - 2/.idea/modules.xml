@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Advanced Calculator/Advanced Calculator.iml" filepath="$PROJECT_DIR$/Advanced Calculator/Advanced Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraySort/ArraySort.iml" filepath="$PROJECT_DIR$/ArraySort/ArraySort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BWithMultidimensionalArray/BWithMultidimensionalArray.iml" filepath="$PROJECT_DIR$/BWithMultidimensionalArray/BWithMultidimensionalArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boks Maci/Boks Maci.iml" filepath="$PROJECT_DIR$/Boks Maci/Boks Maci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desene Gore Metot/Desene Gore Metot.iml" filepath="$PROJECT_DIR$/Desene Gore Metot/Desene Gore Metot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EvenNumwithArray/EvenNumwithArray.iml" filepath="$PROJECT_DIR$/EvenNumwithArray/EvenNumwithArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hafta - 2.iml" filepath="$PROJECT_DIR$/.idea/Hafta - 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Harmonik Ortalama/Harmonik Ortalama.iml" filepath="$PROJECT_DIR$/Harmonik Ortalama/Harmonik Ortalama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maas Hesaplayici/Maas Hesaplayici.iml" filepath="$PROJECT_DIR$/Maas Hesaplayici/Maas Hesaplayici.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Matrix Transpose/Matrix Transpose.iml" filepath="$PROJECT_DIR$/Matrix Transpose/Matrix Transpose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinAndMaxArray/MinAndMaxArray.iml" filepath="$PROJECT_DIR$/MinAndMaxArray/MinAndMaxArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ogrenci Bilgi Sisitemi/Ogrenci Bilgi Sisitemi.iml" filepath="$PROJECT_DIR$/Ogrenci Bilgi Sisitemi/Ogrenci Bilgi Sisitemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrom Sayi/Palindrom Sayi.iml" filepath="$PROJECT_DIR$/Palindrom Sayi/Palindrom Sayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Powered Numbers with Recursive/Powered Numbers with Recursive.iml" filepath="$PROJECT_DIR$/Powered Numbers with Recursive/Powered Numbers with Recursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prime Numbers with Recursive/Prime Numbers with Recursive.iml" filepath="$PROJECT_DIR$/Prime Numbers with Recursive/Prime Numbers with Recursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursive Ile Fibonacci/Recursive Ile Fibonacci.iml" filepath="$PROJECT_DIR$/Recursive Ile Fibonacci/Recursive Ile Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Repeated Number in Array/Repeated Number in Array.iml" filepath="$PROJECT_DIR$/Repeated Number in Array/Repeated Number in Array.iml" />
+    </modules>
+  </component>
+</project>
